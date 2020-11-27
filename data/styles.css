@@ -1,0 +1,155 @@
+﻿.ax_default {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.box_1 {
+}
+.image {
+}
+.placeholder {
+}
+.button {
+}
+.link_button {
+  color:#169BD5;
+}
+.shape {
+}
+.heading_1 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.flow_shape {
+}
+.line {
+}
+.dialog_bg {
+}
+.paragraph1 {
+  text-align:left;
+}
+.box_2 {
+}
+.box_3 {
+}
+.image1 {
+  color:#000000;
+}
+.horizontal_line {
+}
+.text_button {
+  color:#02A7F0;
+}
+.table_cell {
+}
+._action_chip {
+  color:rgba(0, 0, 0, 0.866666666666667);
+}
+._contained_button {
+  color:#373737;
+}
+._contained_button_with_icon {
+  color:#FFFFFF;
+}
+._input_chip {
+  color:rgba(0, 0, 0, 0.866666666666667);
+}
+._menu_bg {
+}
+._outlined_action_chip {
+  color:rgba(0, 0, 0, 0.866666666666667);
+}
+._navigation_rail_item_bg {
+}
+._helper_text {
+  font-size:12px;
+  color:rgba(0, 0, 0, 0.6);
+  text-align:left;
+}
+._label {
+}
+._tooltips_mobile {
+  font-size:14px;
+  color:rgba(255, 255, 255, 0.866666666666667);
+  text-align:left;
+}
+.dividers {
+}
+.icon {
+}
+.ellipse {
+}
+.shape1 {
+}
+._图片_ {
+  color:#000000;
+}
+textarea, select, input, button { outline: none; }
