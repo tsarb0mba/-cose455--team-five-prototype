@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u689_img {
+#u690_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:205px;
   height:207px;
 }
-#u689 {
+#u690 {
   border-width:0px;
   position:absolute;
   left:17px;
@@ -33,67 +33,25 @@
   height:207px;
   display:flex;
 }
-#u689 .text {
+#u690 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u689_text {
+#u690_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
-}
-#u690_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:103px;
-  height:28px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'AppleSDGothicNeo-Bold', 'Apple SD Gothic Neo Bold', 'Apple SD Gothic Neo';
-  font-weight:700;
-  font-style:normal;
-}
-#u690 {
-  border-width:0px;
-  position:absolute;
-  left:248px;
-  top:46px;
-  width:103px;
-  height:28px;
-  display:flex;
-  font-family:'AppleSDGothicNeo-Bold', 'Apple SD Gothic Neo Bold', 'Apple SD Gothic Neo';
-  font-weight:700;
-  font-style:normal;
-}
-#u690 .text {
-  position:absolute;
-  align-self:flex-start;
-  padding:0px 0px 0px 0px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u690_text {
-  border-width:0px;
-  white-space:nowrap;
-  text-transform:none;
 }
 #u691_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:70px;
+  width:103px;
   height:28px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -110,8 +68,8 @@
   border-width:0px;
   position:absolute;
   left:248px;
-  top:103px;
-  width:70px;
+  top:46px;
+  width:103px;
   height:28px;
   display:flex;
   font-family:'AppleSDGothicNeo-Bold', 'Apple SD Gothic Neo Bold', 'Apple SD Gothic Neo';
@@ -135,8 +93,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:90px;
-  height:15px;
+  width:70px;
+  height:28px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -144,15 +102,21 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'AppleSDGothicNeo-Bold', 'Apple SD Gothic Neo Bold', 'Apple SD Gothic Neo';
+  font-weight:700;
+  font-style:normal;
 }
 #u692 {
   border-width:0px;
   position:absolute;
-  left:17px;
-  top:254px;
-  width:90px;
-  height:15px;
+  left:248px;
+  top:103px;
+  width:70px;
+  height:28px;
   display:flex;
+  font-family:'AppleSDGothicNeo-Bold', 'Apple SD Gothic Neo Bold', 'Apple SD Gothic Neo';
+  font-weight:700;
+  font-style:normal;
 }
 #u692 .text {
   position:absolute;
@@ -163,30 +127,37 @@
 }
 #u692_text {
   border-width:0px;
-  word-wrap:break-word;
+  white-space:nowrap;
   text-transform:none;
 }
-#u693_img {
+#u693_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:380px;
-  height:188px;
+  width:90px;
+  height:15px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
 }
 #u693 {
   border-width:0px;
   position:absolute;
   left:17px;
-  top:292px;
-  width:380px;
-  height:188px;
+  top:254px;
+  width:90px;
+  height:15px;
   display:flex;
 }
 #u693 .text {
   position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
@@ -194,27 +165,23 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u694_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:140px;
-  height:40px;
+  width:380px;
+  height:188px;
 }
 #u694 {
   border-width:0px;
   position:absolute;
-  left:137px;
-  top:806px;
-  width:140px;
-  height:40px;
+  left:17px;
+  top:292px;
+  width:380px;
+  height:188px;
   display:flex;
-  font-family:'AppleSDGothicNeo-Regular', 'Apple SD Gothic Neo';
-  font-weight:400;
-  font-style:normal;
 }
 #u694 .text {
   position:absolute;
@@ -227,8 +194,41 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+  visibility:hidden;
 }
-#u695_div {
+#u695_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:140px;
+  height:40px;
+}
+#u695 {
+  border-width:0px;
+  position:absolute;
+  left:137px;
+  top:806px;
+  width:140px;
+  height:40px;
+  display:flex;
+  font-family:'AppleSDGothicNeo-Regular', 'Apple SD Gothic Neo';
+  font-weight:400;
+  font-style:normal;
+}
+#u695 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u695_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u696_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -246,7 +246,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u695 {
+#u696 {
   border-width:0px;
   position:absolute;
   left:17px;
@@ -258,19 +258,19 @@
   font-weight:400;
   font-style:normal;
 }
-#u695 .text {
+#u696 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u695_text {
+#u696_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u696_img {
+#u697_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -278,7 +278,7 @@
   width:380px;
   height:188px;
 }
-#u696 {
+#u697 {
   border-width:0px;
   position:absolute;
   left:17px;
@@ -287,14 +287,14 @@
   height:188px;
   display:flex;
 }
-#u696 .text {
+#u697 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u696_text {
+#u697_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
