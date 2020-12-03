@@ -536,7 +536,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:119px;
+  width:104px;
   height:21px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -545,7 +545,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
 }
@@ -554,10 +554,10 @@
   position:absolute;
   left:137px;
   top:0px;
-  width:119px;
+  width:104px;
   height:21px;
   display:flex;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
 }

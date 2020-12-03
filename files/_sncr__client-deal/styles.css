@@ -51,8 +51,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:96px;
-  height:28px;
+  width:84px;
+  height:29px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -69,8 +69,8 @@
   position:absolute;
   left:248px;
   top:46px;
-  width:96px;
-  height:28px;
+  width:84px;
+  height:29px;
   display:flex;
   font-family:'AppleSDGothicNeo-Bold', 'Apple SD Gothic Neo Bold', 'Apple SD Gothic Neo';
   font-weight:700;
@@ -93,8 +93,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:76px;
-  height:28px;
+  width:77px;
+  height:29px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -111,8 +111,8 @@
   position:absolute;
   left:248px;
   top:103px;
-  width:76px;
-  height:28px;
+  width:77px;
+  height:29px;
   display:flex;
   font-family:'AppleSDGothicNeo-Bold', 'Apple SD Gothic Neo Bold', 'Apple SD Gothic Neo';
   font-weight:700;
@@ -136,7 +136,7 @@
   left:0px;
   top:0px;
   width:90px;
-  height:15px;
+  height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -151,7 +151,7 @@
   left:17px;
   top:254px;
   width:90px;
-  height:15px;
+  height:16px;
   display:flex;
 }
 #u372 .text {
@@ -204,7 +204,7 @@
   left:0px;
   top:0px;
   width:90px;
-  height:15px;
+  height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -222,7 +222,7 @@
   left:17px;
   top:538px;
   width:90px;
-  height:15px;
+  height:16px;
   display:flex;
   font-family:'AppleSDGothicNeo-Regular', 'Apple SD Gothic Neo';
   font-weight:400;
@@ -1161,18 +1161,18 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:161px;
-  height:19px;
+  width:152px;
+  height:20px;
 }
 #u413 {
   border-width:0px;
   position:absolute;
-  left:91px;
+  left:96px;
   top:254px;
-  width:161px;
-  height:19px;
+  width:152px;
+  height:20px;
   display:flex;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   color:#D9001B;

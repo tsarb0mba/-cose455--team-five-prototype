@@ -1109,7 +1109,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:108px;
+  width:102px;
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -1126,7 +1126,7 @@
   position:absolute;
   left:76px;
   top:40px;
-  width:108px;
+  width:102px;
   height:20px;
   display:flex;
   color:rgba(0, 0, 0, 0.6);
@@ -1196,7 +1196,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:89px;
+  width:81px;
   height:32px;
   background:inherit;
   background-color:rgba(0, 0, 0, 0.117647058823529);
@@ -1209,9 +1209,9 @@
 #u689 {
   border-width:0px;
   position:absolute;
-  left:263px;
+  left:267px;
   top:84px;
-  width:89px;
+  width:81px;
   height:32px;
   display:flex;
 }
